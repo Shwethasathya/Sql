@@ -15,7 +15,7 @@ INSERT INTO games VALUES(3,'Judo','Didar Khamza','central asia',2,2,1,'Gold',3,1
 INSERT INTO games VALUES(4,'Football','Cristiano Ronaldo','Portugese',11,2,38,'silver',7,145090);
 INSERT INTO games VALUES(5,'Gymnastics','Dipa Karmakar','India',1,2,3,'gold',13,2500000);
 INSERT INTO games VALUES(6,'Canoe slalom','Mallory Franklin','India',1,2,13,'gold',5,20000);
-INSERT INTO games VALUES(7,'Trampolining','Trampolining','china',2,1,4,'gold,silver',21,152000);
+INSERT INTO games VALUES(7,'Trampolining','Dong Dong','china',2,1,4,'gold,silver',21,152000);
 INSERT INTO games VALUES(8,'Open water swimming','Edith van Dijk ','Holland',1,2,19,'gold,silver',12,2308000);
 INSERT INTO games VALUES(9,'Rugdy','William Ralph Martin-Leake','European country',13,2,1,'silver',1,12300);
 INSERT INTO games VALUES(10,'Road cycling','Marlen Reusser','Swiss',1,8,3,'bronze',23,12800);
