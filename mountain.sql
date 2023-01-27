@@ -48,6 +48,5 @@ SELECT * FROM mountains order by no_of_trees;
 SELECT * FROM mountains order by location;
 SELECT mountain_district FROM mountains order by location;
 
-
 SELECT * FROM mountains order by mountain_name DESC;
 SELECT * FROM mountains order by mountain_state DESC;
